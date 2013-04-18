@@ -3,7 +3,6 @@ class RootViewController < UIViewController
     view = UIScrollView.alloc.init
     view.backgroundColor = UIColor.whiteColor
     m = Map.new(a:10, b:20, c:{d:30} )
-    # Map = {a:10, b:20}
 		view.contentSize = [320, m.count*200]
 		  		
 		i = 0
