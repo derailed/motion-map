@@ -7,7 +7,7 @@ Adding a bit more sizzles to the boring ol' hashes for RubyMotion.
 This is most entirely lifted from the awesome Map from Ara T. Howard (https://github.com/ahoward/map).
 Made some adaptations to make it work in the RubyMotion world, but all the heavy lifting is his.
 
-Hence all credits and ATTA BOY! should go to Ara for some very nice work.
+Hence all credits and ATTA BOY! should go to Ara for some very nice work!
 
 ## Installation
 
@@ -30,7 +30,7 @@ gem install motion-map
 
 See docs (https://github.com/ahoward/map)
 
-NOTE: Struct and Options functionality was pulled out for this release!
+NOTE: Struct and Options functionality was pulled out for this release.
 
 ## Contact
 
