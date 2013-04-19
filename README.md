@@ -4,7 +4,7 @@ Adding a bit more sizzles to the boring ol' hashes for RubyMotion.
 
 ## ATTA BOY!
 
-This is most entirely lifted from the awesome Map from Ara T. Howard (https://github.com/ahoward/map).
+This is most entirely lifted from the awesome Map gem from Ara T. Howard (https://github.com/ahoward/map).
 Made some adaptations to make it work in the RubyMotion world, but all the heavy lifting is his.
 
 Hence all credits and ATTA BOY! should go to Ara for some very nice work!
