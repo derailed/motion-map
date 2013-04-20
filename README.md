@@ -1,4 +1,4 @@
-# MotionMap - maps for RubyMotion!
+# MotionMap - Map for RubyMotion!
 
 Adding a bit more sizzles to the boring ol' hashes for RubyMotion.
 

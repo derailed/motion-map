@@ -993,10 +993,3 @@ module MotionMap
     # alias_method 'contains?', 'contains'
   end
 end
-
-# module Kernel
-# private
-#   def Map(*args, &block)
-#     Map.new(*args, &block)
-#   end
-# end
