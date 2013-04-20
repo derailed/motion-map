@@ -1,6 +1,6 @@
 module MapHelper
   def new_int_map(n = 1024)
-    Map.new.tap do |m|
+    MotionMap::Map.new.tap do |m|
       n.times{|i| m[i.to_s] = i}
     end
   end
