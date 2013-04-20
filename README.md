@@ -49,3 +49,7 @@ MotionMap is released under the [MIT](http://opensource.org/licenses/MIT) licens
 ## History
   + 0.0.1:
     + Initial drop
+  + 0.0.2:
+    + Bug fixes and cleanup
+  + 0.0.3:
+    + Mo' spring cleaning    
