@@ -984,12 +984,13 @@ module MotionMap
       MotionMap::Map.breadth_first_each(enumerable=self, *args, &block)
     end
 
-    def contains(other)
-      other = other.is_a?(Hash) ? MotionMap::Map.coerce(other) : other
-      breadth_first_each{|key, value| return true if value == other}
-      return false
-    end
-    alias_method 'contains?', 'contains'
+    # Make RM Not happy ;-(
+    # def contains(other)
+    #   other = other.is_a?(Hash) ? MotionMap::Map.coerce(other) : other
+    #   breadth_first_each{|key, value| return true if value == other}
+    #   return false
+    # end
+    # alias_method 'contains?', 'contains'
   end
 end
 
