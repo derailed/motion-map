@@ -164,7 +164,7 @@ module MotionMap
         when Hash
           coerce(value)
         when Array
-          value.map!{|v| convert_value(v)}
+          value = value.map{|v| convert_value(v)}
         else
           value
       end

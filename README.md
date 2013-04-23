@@ -53,3 +53,5 @@ MotionMap is released under the [MIT](http://opensource.org/licenses/MIT) licens
     + Bug fixes and cleanup
   + 0.0.3:
     + Mo' spring cleaning    
+  + 0.0.4:
+    + Dealing with immutable world
